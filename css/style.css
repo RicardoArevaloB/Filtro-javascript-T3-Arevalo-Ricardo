@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr, 1fr, 1fr;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/008/216/827/non_2x/retro-comic-blue-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+.marvel{
+    border: solid white;
+    height: 100vh;
+}
+
+.personaje_marvel{
+    border: solid white;
+    width: 20%;
+    background-color: rgb(12, 12, 46);
+}
+
+.personaje_marvel img{
+    width: 100%;
+
+}

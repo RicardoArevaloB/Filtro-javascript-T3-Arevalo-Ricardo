@@ -1,0 +1,100 @@
+{
+    "marvel":[
+
+        {
+            "superheroe":"Thor",
+            "editorial":"Marvel comics",
+            "Nombre_real":"thor Odinson",
+            "Primera_aparicion":"apareció por primera vez en Journey into Mystery # 85 (agosto de 1962)",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/thor-amor-y-trueno-arte-de-comic-10571.jpg?s=large",
+            "historia":"Cuando su conducta irresponsable amenazó a los Asgardianos a entrar en otra guerra con los Gigantes de Hielo, fue despojado de su poder y desterrado en la Tierra por su padre, Odín.",
+            "habilidades":"Fuerza sobrehumana, resistencia, durabilidad, velocidad, agilidad, reflejos, curación, longevidad y sentidos. Manipulación del clima y la materia. Manipulación de energía."
+        },
+
+
+        {
+            "superheroe":"Spiderman",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Peter Benjamin Parker",
+            "Primera_aparicion":"hizo su primera aparición en el Amazing Fantasy #15, un cómic con fecha de agosto de 1962.",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/spider-man-ps5-11049.jpg?s=large",
+            "historia":"Peter Parker es un adolescente como otro cualquiera. Vive con su tía May y su tío Ben, va al instituto y le encantan las clases de ciencias. Sin embargo, todo cambia el día que, durante una excursión del insituto a un laboratorio, ¡Peter es mordido por una araña radioactiva y se convierte en Spider-Man!",
+            "habilidades":"Fuerza, velocidad, durabilidad, agilidad, sentidos, reflejos, coordinación, equilibrio y resistencia sobrehumanos."
+        },
+    
+        {
+            "superheroe":"Capitan America",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Steve Rogers",
+            "Primera_aparicion":"Apareció por primera vez en Captain America Comics #1 (marzo de 1941)",
+            "imagen":"https://media.c5n.com/p/acfca4bddf64577329a2326c154f489c/adjuntos/326/imagenes/000/293/0000293205/790x0/smart/capitan-america.jpg",
+            "historia":"Steve Rogers nació durante la Depresión y creció, convirtiéndose en un joven débil en una familia pobre. Su padre murió cuando él era un niño; su madre, durante la adolescencia de Steve. Horrorizado ante un noticiario que mostraba a los nazis en Europa, Rogers intentó alistarse en el ejército.",
+            "habilidades":"Fuerza, velocidad, agilidad, resistencia durabilidad, aguante, coordinación, equilibrio y reflejos sobrehumanos. Regeneración y factor curativo acelerado. Inmune a gases y enfermedades."
+        },
+    
+        {
+            "superheroe":"Iroman",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Anthony Edward Stark",
+            "Primera_aparicion":"primera aparición en Tales of Suspense #39 (marzo de 1963)",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/iron-man-render-3d-12644.jpg?s=large",
+            "historia":"Anthony Edward Stark es el hijo del jefe de Industrias Stark, Howard Stark y su esposa Maria Stark. Un niño genio que ingresa al MIT a la edad de 15 años para estudiar Ingeniería Electrónica. Después de que sus padres mueren en un accidente automovilístico, hereda la compañía de su familia.",
+            "habilidades":"Superfuerza, durabilidad y resistencia por armadura. Vuelo supersónico. Repulsores de energía y misiles de proyección. Regenerativo soporte vital."
+        },
+    
+        {
+            "superheroe":"Pantera negra",
+            "editorial":"Marvel comics",
+            "Nombre_real":"T'Challa",
+            "Primera_aparicion":"Primera aparicion en The Fantastic Four N.º 52 (1966)",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/pantera-negra-ilustracion-7694.jpg?s=large",
+            "historia":"La nación de Wakanda recibió la caída de un gigantesco meteorito con un misterioso mineral, el Vibranium, capaz de absorber el sonido y las vibraciones. Para proteger tan valiosa posesión, T'Chaka es conocido como la Pantera Negra I, decidió ocultar a su país del resto del mundo para proteger a sus habitantes.",
+            "habilidades":"Fuerza sobrehumana, velocidad, reflejos, agilidad, resistencia, durabilidad, curación y sentidos."
+    
+        },
+    
+        {
+            "superheroe":"Doctor Strange",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Stephen Vicent Strange",
+            "Primera_aparicion":"apareció por primera vez en Strange Tales #110 (julio de 1963).",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/doctor-strange-multiverso-de-locura-9941.jpg?s=large",
+            "historia":"fue el Hechicero Supremo de la Tierra-616. Strange fue una vez un brillante pero arrogante neurocirujano, hasta que un accidente de coche le dejó lisiadas las manos. Cuando la medicina moderna le falló, se embarcó en un viaje a Kamar-Taj en el Tíbet, donde fue entrenado por el Ancestral.",
+            "habilidades":"Generación e invocación de escudos, construcciones y armas mágicas. Teletransportación y viaje dimensional. Puede adquirir poder de ciertas entidades mágicas."
+        },
+    
+        {
+            "superheroe":"Hulk",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Bruce Banner",
+            "Primera_aparicion":"Hulk debutó en el número 1 de la colección de cómics The Incredible Hulk (mayo de 1962)",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/hulk-grande-5630.jpg?s=large",
+            "historia":"Tras una exposición accidental a los rayos gamma durante la detonación de una bomba experimental, Robert Banner se transforma físicamente en Hulk. Hulk es un enorme ser humanoide de piel verde, corpulento y musculoso que tiene una gran fortaleza física.",
+            "habilidades":"Enorme fuerza y vigor superhumanos; reisitencia a las heridas; habilidad de saltar varios kilómetros de un solo impulso."
+        },
+    
+        {
+            "superheroe":"Capitana marvel",
+            "editorial":"Marvel comics",
+            "Nombre_real":"Carol Susan Jane Danvers",
+            "Primera_aparicion":"El personaje apareció por primera vez en 1968, en Marvel Súper-Héroes #13.",
+            "imagen":"https://www.xtrafondos.com/wallpapers/resized/capitana-marvel-ilustracion-7486.jpg?s=large",
+            "historia":"La Capitana Carol Susan Jane Danvers es una ex piloto de la Fuerza Aérea de los Estados Unidos que, al destruir el Motor de velocidad de la luz fabricado por su mentora Mar-Vell, fue expuesta a la energía del Teseracto, obteniendo poderes cósmicos y fue raptada para servir al Imperio Kree.",
+            "habilidades":"Fuerza sobrehumana, velocidad, durabilidad, agilidad, resistencia, reflejos y Manipulación, absorción y proyección de energía."
+        }
+        
+        ],
+
+        "Dc":[
+            {
+                "superheroe":"Superman",
+                "editorial":"DC comics",
+                "Nombre_real":"Clark Joseph Kent",
+                "Primera_aparicion":"llegó a los kioscos por primera vez en abril de 1938",
+                "imagen":"https://www.xtrafondos.com/wallpapers/resized/superman-original-11484.jpg?s=large",
+                "historia":"Superman nació en el planeta ficticio Krypton y recibió el nombre de nacimiento Kal-El. Cuando era un bebé, sus padres, el científico Jor-El y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural.",
+                "habilidades":"Súper fuerza, velocidad, resistencia, agilidad, reflejos, durabilidad, sentidos y longevidad."
+            }
+        ]
+}
+
