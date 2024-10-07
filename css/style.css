@@ -3,30 +3,67 @@
     padding: 0;
     box-sizing: border-box;
 }
-main{
-    display: grid;
-    grid-template-columns: 1fr, 1fr, 1fr;
-}
 body{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/008/216/827/non_2x/retro-comic-blue-background-free-vector.jpg);
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/849/573/non_2x/pop-art-orange-comics-book-cartoon-magazine-cover-cartoon-funny-retro-pattern-strip-mock-up-halftone-illustration-free-vector.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    z-index: -1;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+    padding: 0.5%;
+    background-image: url(/img/WhatsApp\ Image\ 2024-10-04\ at\ 4.05.32\ PM.jpeg);
+    background-position: center;
+
 }
 
-.marvel{
-    border: solid white;
-    height: 100vh;
+header img{
+    height: 80px;
 }
 
-.personaje_marvel{
-    border: solid white;
-    width: 20%;
-    background-color: rgb(12, 12, 46);
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 18px;
+    border: solid;
+    padding: 0.5%;
 }
 
-.personaje_marvel img{
+.image_container{
+    display: flex;
+}
+
+.image_container img{
     width: 100%;
-
 }
+
+article{
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0px 0px 1px #000;
+    background-color: #52aef5c4;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 1380px){
+    main{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+} 
+
+@media (max-width: 686px){
+    main{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+}
+    
+
+
+
